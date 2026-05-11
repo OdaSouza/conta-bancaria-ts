@@ -9,6 +9,6 @@ OBS: app.ts roda todos os arquivos enquanto os outros são modulos. (class > arq
 * Linguagem > Typescript
   
  Dependencias de desenvolvimento: 
-  *ts-node: 1.0.9.2,
-   *ts-node-dev: 2.0.0,
-   *typescript: 6.0.3
+  * ts-node: 1.0.9.2,
+   * ts-node-dev: 2.0.0,
+   * typescript: 6.0.3
